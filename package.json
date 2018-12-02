@@ -1,0 +1,21 @@
+{
+  "name": "googbuy",
+  "version": "1.0.0",
+  "description": "this project from wewe",
+  "main": "app.js",
+  "scripts": {
+    "test": "test:node./test.js"
+    "start": "node  ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "type:git,url:http://git.sinacloud.com/wewe"
+  },
+  "keywords": [
+    "goodbuy",
+    "node",
+    "sea"
+  ],
+  "author": "wewe",
+  "license": "ISC"
+}

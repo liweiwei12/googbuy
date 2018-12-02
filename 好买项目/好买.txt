@@ -1,0 +1,42 @@
+用户信息表   gb_user
+uid               用户id
+uname         用户名
+upwd           用户密码
+email           邮件
+phone         电话
+use_name    真实姓名
+gender         性别
+avatar 
+首页轮播图 gb_index_pic_carouse
+cid              轮播图id
+src              轮播图URL
+title             轮播图标题
+href            轮播图链接
+首页商品列表gb_index_product_list
+pid              首页产品id
+title             首页产品标题
+detail          首页产品描述
+price          首页产品价格
+p_pic           首页产品图片
+href             首页产品跳转
+购物车gb_shoppingcart
+sid              购物车id
+user_id      购物车用户id
+product_id  加入购物车产品id
+count         购物车产品数量
+is_checked boolean   是否勾选产品
+分类列表gb_family_list
+fid             产品分类id
+fname       产品分类名称
+商品详情gb_detail
+lid              产品id
+family_id    产品分类id
+title            产品标题
+subhead     产品副标题
+price          产品价格
+spec           产品规格
+商品详情图片gb_productDetails_pic
+tid            产品id 
+simg          小图
+mimg       中图
+gimg        大图
